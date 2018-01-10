@@ -1,0 +1,1 @@
+To import the old legacy Glow 2.0.7 package delete the current mk glow and then import the legacy one.
